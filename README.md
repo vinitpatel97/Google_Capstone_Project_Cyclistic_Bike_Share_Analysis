@@ -163,23 +163,23 @@ ORDER BY hours, membership_type;
 
 ### Share
 [Tableau Dashboard on Cyclistic Bike Share Analysis](https://public.tableau.com/views/BikeSharingDashboard_17063715634070/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-![image](https://github.com/vinitpatel97/Google_Capstone_Project_Cyclistic_Bike_Share_Analysis/assets/60802331/ed4c1272-5fed-4eb2-83dd-6c52da1e6548)
+![image](https://github.com/vinitpatel97/Google_Capstone_Project_Cyclistic_Bike_Share_Analysis/assets/60802331/d48ceb81-565f-42d5-9274-86488e1b39ac)
 
 ### Act
 Based on the provided data analysis, here are three recommendations to convert casual riders into annual members:</p>
 **1. Offer Targeted Membership Promotions:**</p>
 Utilize the insights from the "Percentage of casual riders vs annual members" pie chart to design targeted membership promotions. Since casual riders constitute a significant portion (35.82%) of the total ridership, offering exclusive discounts or incentives for annual memberships can encourage casual riders to switch to annual memberships. For instance, consider limited time offers or referral programs that provide discounts for transitioning to an annual membership.
 
-![image](https://github.com/vinitpatel97/Google_Capstone_Project_Cyclistic_Bike_Share_Analysis/assets/60802331/e81ee622-2a4e-4e25-9165-93e48fe1931c)
+![image](https://github.com/vinitpatel97/Google_Capstone_Project_Cyclistic_Bike_Share_Analysis/assets/60802331/afb5d729-e1c2-4a9f-894a-38376750ba93)
 
 **2. Enhance Electric Bike Availability and Accessibility:**</p>
 The analysis of the "Proportion of rides by bike type" horizontal bar chart indicates that electric bikes are preferred by both casual and annual members, with significant usage proportions. Capitalize on this preference by expanding the availability and accessibility of electric bikes across Divvy stations. Focus on strategic placement in high-traffic areas and ensure adequate bike stock to meet demand. Highlight the benefits of electric bikes, such as convenience and eco-friendliness, to attract more riders to the annual membership program.
 
-![image](https://github.com/vinitpatel97/Google_Capstone_Project_Cyclistic_Bike_Share_Analysis/assets/60802331/d74c1736-614a-47a1-a3db-bb94213b97ce)
+![image](https://github.com/vinitpatel97/Google_Capstone_Project_Cyclistic_Bike_Share_Analysis/assets/60802331/b2a10468-c7b3-4334-85b1-4d5f9f60d74c)
 
 **3. Implement Tailored Engagement Strategies Based on Riding Patterns:**</P>
 Leverage the insights from the "Total rides per month" stacked bar chart and the "Number of rides by hour" line chart to implement tailored engagement strategies based on riding patterns. For instance, analyze peak riding hours and popular riding months among casual riders. Develop targeted marketing campaigns or special events during these periods to promote annual memberships. Additionally, consider offering flexible subscription options, such as seasonal memberships or pay-as-you-go plans, to accommodate varying riding frequencies and preferences.
 
-![image](https://github.com/vinitpatel97/Google_Capstone_Project_Cyclistic_Bike_Share_Analysis/assets/60802331/3d21a38a-8cfd-48c2-84b8-d043cfbd359e)
+![image](https://github.com/vinitpatel97/Google_Capstone_Project_Cyclistic_Bike_Share_Analysis/assets/60802331/eb8013f3-a4fb-49b5-b9c6-abc1987877c2)
 
-![image](https://github.com/vinitpatel97/Google_Capstone_Project_Cyclistic_Bike_Share_Analysis/assets/60802331/2455547d-2541-4c16-9543-db29dc40ae03)
+![image](https://github.com/vinitpatel97/Google_Capstone_Project_Cyclistic_Bike_Share_Analysis/assets/60802331/c589a1fb-b28d-4d22-8ffd-1a5643821cf6)
